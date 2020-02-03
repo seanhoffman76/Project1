@@ -1,0 +1,12 @@
+"Weight(pounds)","Calories burned after 8 hours of sitting","Calories burned after 4 hours of sitting and 4 hours of standing","Difference in calories burned over 8 hours","Difference in calories burned per hour"
+100,500,762,262,32.75
+120,543,828,285,35.625
+140,587,895,308,38.5
+160,631,961,330,41.25
+180,674,1027,353,44.125
+200,718,1094,376,47
+220,761,1160,399,49.875
+240,805,1227,422,52.75
+260,849,1293,444,55.5
+280,892,1360,468,58.5
+300,936,1426,490,61.25
